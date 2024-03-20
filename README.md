@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @IamChibii
+- 👀 I’m interested in IA
+- 🌱 I’m currently learning C and Py 
+- 💞️ I’m looking to collaborate on machine learning
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love cats but.... i am allergic
